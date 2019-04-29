@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#363866"
+    tools:context=".LoginActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="50sp"
+        android:scrollbarFadeDuration="@integer/google_play_services_version"
+        android:padding="20sp">
+
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="281dp"
+            android:layout_height="51dp"
+            android:layout_marginLeft="68dp"
+            android:layout_marginTop="30dp"
+            android:text="Welcome to TextChat"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Headline"
+            android:textColor="#B4AFAF" />
+
+
+        <EditText
+            android:id="@+id/name_id"
+            android:layout_width="235dp"
+            android:layout_height="48dp"
+            android:layout_below="@+id/textView"
+            android:layout_marginLeft="82sp"
+            android:layout_marginTop="30sp"
+            android:background="@android:color/transparent"
+            android:hint="Enter username"
+            android:inputType="textPersonName"
+            android:textColorHint="#74A8A180" />
+
+
+        <EditText
+            android:id="@+id/phoneNumber"
+            android:layout_width="232dp"
+            android:layout_height="51dp"
+            android:layout_below="@+id/name_id"
+            android:layout_gravity="left"
+            android:layout_marginLeft="82dp"
+            android:background="@android:color/transparent"
+            android:digits="+0123456789"
+            android:drawablePadding="10dp"
+            android:hint="Enter mobile number"
+            android:inputType="phone"
+            android:maxLength="14"
+            android:text=""
+            android:textColorHint="#74A8A180" />
+
+        <EditText
+            android:id="@+id/code"
+            android:layout_width="205dp"
+            android:layout_height="45dp"
+            android:layout_below="@+id/phoneNumber"
+            android:layout_marginLeft="95dp"
+            android:layout_marginTop="3dp"
+            android:background="@android:color/transparent"
+            android:digits="0123456789"
+            android:drawablePadding="10dp"
+            android:hint="Enter code"
+            android:inputType="phone"
+            android:maxLength="6"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/send"
+            android:layout_width="177dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/code"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="87dp"
+            android:background="#22220B07"
+            android:text="Send Verification code"
+            android:textAllCaps="false"
+            android:shadowColor="#22FDE8E8"
+            android:textColor="#B4AFAF" />
+
+    </LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "814710260366",
+    "firebase_url": "https://textchat-95daa.firebaseio.com",
+    "project_id": "textchat-95daa",
+    "storage_bucket": "textchat-95daa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814710260366:android:71f0958877aa40de",
+        "android_client_info": {
+          "package_name": "com.example.mohaiminur.com.textchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814710260366-ov17jbg3l692rrd1j0u8vpskv67ca78o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mohaiminur.com.textchat",
+            "certificate_hash": "28978fb2916124273b63c3f6252e2ef5f630171f"
+          }
+        },
+        {
+          "client_id": "814710260366-on0b2drmbodjljhqhebusdb8t8m74clj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFvN3WiVq0yCl1RbZq4JYojckh6W_fwck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814710260366-on0b2drmbodjljhqhebusdb8t8m74clj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
