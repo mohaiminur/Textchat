@@ -1,6 +1,6 @@
 # Textchat
 ---
-### Android based chating application with Maching learning ML-KIT
+### Android lightweight chating application with Maching learning ML-KIT
 ---
 ## Using Tech:
 
