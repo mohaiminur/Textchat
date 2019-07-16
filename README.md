@@ -56,6 +56,7 @@ Sending message            |  Message notification
 :-------------------------:|:-------------------------:
 ![Screenshot (134) - Copy](https://user-images.githubusercontent.com/42282069/61291082-41888880-a7ef-11e9-866d-75b62f8697d8.png)  |  ![Capture - Copy (2)](https://user-images.githubusercontent.com/42282069/61291083-42211f00-a7ef-11e9-981c-cd2f666e8081.PNG)
 
+---
 
 ## Feature Work
 
