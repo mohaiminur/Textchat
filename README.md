@@ -70,7 +70,7 @@ I will be  added voice recognization function and also  smart reply option by an
 
 MIT License
 
-Copyright (c) [2017] [Mohaiminur]
+Copyright (c) 2019 Md. Moahiminur Rahaman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
