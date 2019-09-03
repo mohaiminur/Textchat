@@ -10,7 +10,7 @@
 * Retrofit,
 * Text Recognition with ML-KIT
 ---
-#### Link : https://youtu.be/S2gbnVanKDA
+#### Watch Demo : https://youtu.be/S2gbnVanKDA
 ---
 ## Features
 
