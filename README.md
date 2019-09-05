@@ -7,6 +7,7 @@
 * Java
 * Xml
 * Firebase,
+* Firebase Push Notification
 * Retrofit,
 * Text Recognition with ML-KIT
 ---
