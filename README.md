@@ -24,7 +24,7 @@
 * User can see notification if someone message
 * User can send message to retrieve text from image using Gallery or Camera
 ---
-## Screensort with description
+## Screensorts with description
 
 After open the application you will find the welcome screen that stay in 2.5 seconds. after you can see login screen that you can login with your name and phone number. After login with this you will get a verification code in the given phone number after input the code you can login
 
